@@ -77,16 +77,30 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Dinorun',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'A webassembly Dino Run like',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
     {
-      title: 'Project Name',
+      title: 'ScreenSaver',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'A webassembly application, a screensaver like.',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://example.com',
+    },
+    {
+      title: 'ScreenSaver Improved',
+      description:
+        'A webassembly application, a screensaver like improved.',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://example.com',
+    },
+    {
+      title: 'Death Star Model',
+      description:
+        'A webassembly application with a death star model to interact.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
