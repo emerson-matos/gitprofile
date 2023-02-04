@@ -88,28 +88,28 @@ const config = {
       title: 'Dinorun',
       description:
         'A webassembly Dino Run like',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/121px-WebAssembly_Logo.svg.png',
       link: 'https://emerson-matos.github.io/comp-grafica/projeto1/projeto1.html',
     },
     {
       title: 'ScreenSaver',
       description:
         'A webassembly application, a screensaver like.',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/121px-WebAssembly_Logo.svg.png',
       link: 'https://emerson-matos.github.io/comp-grafica/projeto2/projeto2.html',
     },
     {
       title: 'ScreenSaver Improved',
       description:
         'A webassembly application, a screensaver like improved.',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/121px-WebAssembly_Logo.svg.png',
       link: 'https://emerson-matos.github.io/comp-grafica/projeto2/imp/projeto2imp.html',
     },
     {
       title: 'ScreenSaver',
       description:
         'A webassembly application, a screensaver like.',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/121px-WebAssembly_Logo.svg.png',
       link: 'https://emerson-matos.github.io/comp-grafica/projeto3/projeto3.html',
     },
   ],
