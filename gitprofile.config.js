@@ -30,25 +30,33 @@ const config = {
   },
   skills: [
     'Clojure',
+    'Docker',
+    'Git',
+    'Java',
     'JavaScript',
     'React.js',
-    'Git',
-    'Docker',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Nubank',
+      position: 'Software Engineer',
+      from: 'July 2021',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.linkedin.com/company/nubank/',
     },
     {
       company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      position: 'Software Engineer',
+      from: 'April 2019',
+      to: 'June 2021',
+      companyLink: 'https://www.linkedin.com/company/itau/',
+    },
+    {
+      company: 'Itau Unibanco',
+      position: 'Software Developer Intern',
+      from: 'June 2018',
+      to: 'Mar 2019',
+      companyLink: 'https://www.linkedin.com/company/itau/',
     },
   ],
   /* certifications: [
@@ -61,16 +69,16 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
+      institution: 'UFABC',
+      degree: 'Bachelor in Computer Science',
       from: '2015',
-      to: '2019',
+      to: '2023',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'UFABC',
+      degree: 'Bachelor in Science and Technology',
+      from: '2015',
+      to: '2020',
     },
   ],
 
@@ -98,9 +106,9 @@ const config = {
       link: 'https://example.com',
     },
     {
-      title: 'Death Star Model',
+      title: 'ScreenSaver',
       description:
-        'A webassembly application with a death star model to interact.',
+        'A webassembly application, a screensaver like.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
@@ -124,7 +132,7 @@ const config = {
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: false,
+    disableSwitch: true,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
