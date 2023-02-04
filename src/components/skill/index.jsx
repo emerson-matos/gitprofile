@@ -1,6 +1,14 @@
 import { skeleton } from '../../helpers/utils';
 import PropTypes from 'prop-types';
 
+const SkillBox = ({ skill, index }) => {
+  return (
+    <div key={index} className="m-1 text-xs inline-flex items-center font-bold leading-sm px-3 py-1 badge-primary bg-opacity-90 rounded-full">
+      {skill}
+    </div>
+  );
+}
+
 const Skill = ({ loading, skills }) => {
   const renderSkeleton = () => {
     let array = [];
@@ -36,13 +44,8 @@ const Skill = ({ loading, skills }) => {
                 {loading
                   ? renderSkeleton()
                   : skills.map((skill, index) => (
-                      <div
-                        key={index}
-                        className="m-1 text-xs inline-flex items-center font-bold leading-sm px-3 py-1 badge-primary bg-opacity-90 rounded-full"
-                      >
-                        {skill}
-                      </div>
-                    ))}
+                    <SkillBox skill={skill} index={index} />
+                  ))}
               </div>
             </div>
           </div>
