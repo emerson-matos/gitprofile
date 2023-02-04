@@ -106,9 +106,9 @@ const config = {
       link: 'https://emerson-matos.github.io/comp-grafica/projeto2/imp/projeto2imp.html',
     },
     {
-      title: 'ScreenSaver',
+      title: 'Death Star',
       description:
-        'A webassembly application, a screensaver like.',
+        'A webassembly application, you will be able to interact with a Death Star 3D model.',
       imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/121px-WebAssembly_Logo.svg.png',
       link: 'https://emerson-matos.github.io/comp-grafica/projeto3/projeto3.html',
     },
