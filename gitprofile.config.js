@@ -89,28 +89,28 @@ const config = {
       description:
         'A webassembly Dino Run like',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://emerson-matos.github.io/comp-grafica/projeto1/projeto1.html',
     },
     {
       title: 'ScreenSaver',
       description:
         'A webassembly application, a screensaver like.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://emerson-matos.github.io/comp-grafica/projeto2/projeto2.html',
     },
     {
       title: 'ScreenSaver Improved',
       description:
         'A webassembly application, a screensaver like improved.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://emerson-matos.github.io/comp-grafica/projeto2/imp/projeto2imp.html',
     },
     {
       title: 'ScreenSaver',
       description:
         'A webassembly application, a screensaver like.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://emerson-matos.github.io/comp-grafica/projeto3/projeto3.html',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
