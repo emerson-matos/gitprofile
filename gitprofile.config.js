@@ -45,7 +45,7 @@ const config = {
       companyLink: 'https://www.linkedin.com/company/nubank/',
     },
     {
-      company: 'Company Name',
+      company: 'Itau Unibanco',
       position: 'Software Engineer',
       from: 'April 2019',
       to: 'June 2021',
